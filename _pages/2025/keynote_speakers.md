@@ -1,5 +1,5 @@
 ---
-permalink: /keynote_speakers/
+permalink: /2025/keynote_speakers/
 title: "Keynote Speakers"
 classes: wide
 ---
@@ -7,8 +7,8 @@ classes: wide
 [2025 webpages](/2025/index){: style="color: orange"}
 - [Registation](/2025/register){: style="color: orange"}
 - Keynote Speakers
-- [Schedule](/2025/register){: style="color: orange"}
-- [Attendees](/2025/register){: style="color: orange"}
+- [Schedule](/2025/schedule){: style="color: orange"}
+- [Attendees](/2025/attendees){: style="color: orange"}
 
 [\\]: # This is a comment
 <br>

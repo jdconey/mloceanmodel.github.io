@@ -1,5 +1,5 @@
 ---
-permalink: /attendees/
+permalink: /2025/attendees/
 title: "Attendees"
 ---
 
