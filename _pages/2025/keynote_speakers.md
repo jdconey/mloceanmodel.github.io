@@ -5,9 +5,6 @@ classes: wide
 ---
 
 [\\]: # This is a comment
-Details of our keynote speakers will follow.
-<!--
-
 <br>
 <br>
 <div style="display: flex; align-items: flex-start; gap: 15px;">
@@ -101,5 +98,3 @@ In his keynote talk, Said will investigate online learning and hybrid models to 
 	
   </div>
 </div>
-
--->
