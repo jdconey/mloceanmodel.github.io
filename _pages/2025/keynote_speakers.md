@@ -4,6 +4,12 @@ title: "Keynote Speakers"
 classes: wide
 ---
 
+[2025 webpages](/2025/index){: style="color: orange"}
+- [Registation](/2025/register){: style="color: orange"}
+- Keynote Speakers
+- [Schedule](/2025/register){: style="color: orange"}
+- [Attendees](/2025/register){: style="color: orange"}
+
 [\\]: # This is a comment
 <br>
 <br>

@@ -7,6 +7,15 @@ header:
 classes: wide
 ---
 
+
+2025 webpages
+- [Registation](/2025/register){: style="color: orange"}
+- [Keynote Speakers](/2025/keynote_speakers){: style="color: orange"}
+- [Schedule](/2025/schedule){: style="color: orange"}
+- [Attendees](/2025/attendees){: style="color: orange"}
+
+
+
 📅Date: 24-25 June 2025<br/>
 📍Location: University of Reading, UK (In-person & Remote Options)<br/>
 ⚒️Organized by: NCAS, NOC, BAS, Met Office, and ECMWF
