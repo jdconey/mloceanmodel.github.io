@@ -24,7 +24,7 @@ You can review last year's information on the [2025 pages](/2025){: style="color
 
 To follow.
 
-### Workshop outcomes 
+## Workshop outcomes 
 
 - Mapping UK Ocean AI activities across academia, research centres, and industry.
 - Position paper articulating key challenges in Ocean AI.
